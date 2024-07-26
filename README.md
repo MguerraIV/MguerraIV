@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Machine Learng and AI**
 
-- 👨‍💻 All of my projects are available at [this account](this account)
+- 👨‍💻 All of my projects are available at [this account] 
 
-- 📝 I regularly write articles on [Data Science and Computer Vision](Data Science and Computer Vision)
+- 📝 I regularly write articles on [Data Science and Computer Vision] 
 
 - 💬 Ask me about **Python, Postgres SQL, Java**
 
