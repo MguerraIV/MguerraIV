@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mário Guerra</h1>
 <h3 align="center">Um estudante de Engenharia da Computação apaixonado por novas tecnologias e experiências.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mguerraiv" alt="mguerraiv" /></a> </p>
 
 - 🔭 I’m currently working on [Max (Neurolaw)](https://neuro.law/#:~:text=Somos%20uma%20empresa%20focada%20na,dos%20escrit%C3%B3rios%20de%20advocacia%20terceirizados.)
 
