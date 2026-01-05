@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mariostelaguerra@hotmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10vd7Xzlgev8x5_-6Ei3Vn9RCRGGU0IHh/view?usp=sharing](https://drive.google.com/file/d/10vd7Xzlgev8x5_-6Ei3Vn9RCRGGU0IHh/view?usp=sharing)
+- 📄 Know about my experiences: [Curriculum](https://drive.google.com/file/d/1ETkiRRKewYjSblmUYBmgD9OnMYEMfT09/view?usp=sharing)
 
 - ⚡ Fun fact **I like making jokes and cooking.**
 
